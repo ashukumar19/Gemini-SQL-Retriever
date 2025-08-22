@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+sqlenv/
+
+# Database files
+db.sqlite3
+db.sqlite3-journal
+
+# API Keys and sensitive data
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+secrets.json
+config.json
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# IDE/project settings
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
