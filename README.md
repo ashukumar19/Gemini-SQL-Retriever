@@ -20,8 +20,8 @@ A Streamlit web application that converts natural language questions into SQL qu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SQL_LLM.git
-   cd SQL_LLM
+   git clone https://github.com/ashukumar19/Gemini-SQL-Retriever.git
+   cd Gemini-SQL-Retriever
    ```
 
 2. **Create a virtual environment**
